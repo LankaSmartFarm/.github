@@ -1,5 +1,7 @@
 # 🇱🇰 LankaSmartFarm - A Digital Public Infrastructure (DPI) Initiative for Smart Agribusiness in Sri Lanka
 
+<img src="https://raw.githubusercontent.com/LankaSmartFarm/.github/main/LankaSmartFarm.png" alt="LankaSmartFarm Logo" width="128" height="128" />
+
 **LankaSmartFarm** is an open-source Digital Public Infrastructure (DPI) initiative dedicated to modernising Sri Lanka’s agricultural sector using Artificial Intelligence (AI), Internet of Things (IoT), and open digital standards. It provides a collaborative space for developers, farmers, researchers, and policymakers to co-create digital solutions that address real-world challenges in agribusiness.
 
 ---
